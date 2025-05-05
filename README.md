@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development, UI/UX design, and building interactive front-end projects  
 - 🌱 I’m currently learning React.js, Tailwind CSS, and advanced JavaScript concepts  
 - 💞️ I’m looking to collaborate on open-source web apps, beginner-friendly hackathons, and creative portfolio projects  
-- 📫 How to reach me: vibe.code.ez@gmail.com or message me on [LinkedIn](https://www.linkedin.com/)  
+- 📫 How to reach me: morabeemanuel030@gmail.com or message me on [LinkedIn](https://www.linkedin.com/)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I can turn a coffee-fueled idea into code faster than you can say "console.log('Hello World!')"  
